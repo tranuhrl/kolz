@@ -81,7 +81,8 @@ button {
     border-radius: 10px;
     background-color: rgb(128, 128, 128);
     cursor: pointer;
-    color: black !important;
+    text-decoration: none;
+    appearance: none;
     -webkit-appearance: none;
 }
 
